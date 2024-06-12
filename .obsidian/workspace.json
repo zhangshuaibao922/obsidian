@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1471573597d5e84f",
+        "id": "42bf9124e8ede4fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2f7441b4805c93",
+            "id": "ab93d18a11e04bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习md/测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习md/测试.md",
+                "file": "学习md/第二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习md/测试.md",
+                "file": "学习md/第二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习md/测试.md"
+                "file": "学习md/第二.md"
               }
             }
           },
@@ -148,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "学习md/测试.md"
+                "file": "学习md/第二.md"
               }
             }
           }
@@ -171,19 +167,19 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b43d1c3b13277d2f",
+  "active": "7ea08e0223ef438e",
   "lastOpenFiles": [
-    "学习md/第二.md",
     "学习md/第一篇.md",
-    "学习md/未命名.canvas",
-    "daily/2024-06-12.md",
-    "正经资料",
     "daily/Daily.md",
+    "daily/2024-06-12.md",
+    "学习md/未命名.canvas",
+    "学习md/测试.md",
+    "学习md/第二.md",
+    "正经资料",
     "2024-06-12.md",
     "daily",
     "学习md/images/test.png",
     "学习md/images",
-    "学习md/测试.md",
     "学习md/Pasted image 20240612171426.png",
     "Pasted image 20240612171346.png",
     "学习/我的测试.md",
