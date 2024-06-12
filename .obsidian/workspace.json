@@ -11,8 +11,12 @@
             "id": "ab93d18a11e04bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-06-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习md/第二.md",
+                "file": "daily/2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习md/第二.md",
+                "file": "daily/2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习md/第二.md"
+                "file": "daily/2024-06-12.md"
               }
             }
           },
@@ -144,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "学习md/第二.md"
+                "file": "daily/2024-06-12.md"
               }
             }
           }
@@ -167,14 +171,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7ea08e0223ef438e",
+  "active": "ab93d18a11e04bca",
   "lastOpenFiles": [
+    "学习md/第二.md",
     "学习md/第一篇.md",
     "daily/Daily.md",
     "daily/2024-06-12.md",
     "学习md/未命名.canvas",
     "学习md/测试.md",
-    "学习md/第二.md",
     "正经资料",
     "2024-06-12.md",
     "daily",
