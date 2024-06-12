@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42bf9124e8ede4fb",
+        "id": "349a50ccc4e6897c",
         "type": "tabs",
         "children": [
           {
-            "id": "ab93d18a11e04bca",
+            "id": "7edc6f292b5b8d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-06-12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2024-06-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "daily/2024-06-12.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,14 +161,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ab93d18a11e04bca",
+  "active": "7edc6f292b5b8d30",
   "lastOpenFiles": [
+    "正经资料/性能测试学习.md",
+    "学习md/测试.md",
     "学习md/第二.md",
     "学习md/第一篇.md",
-    "daily/Daily.md",
-    "daily/2024-06-12.md",
     "学习md/未命名.canvas",
-    "学习md/测试.md",
+    "daily/2024-06-12.md",
+    "daily/Daily.md",
     "正经资料",
     "2024-06-12.md",
     "daily",
